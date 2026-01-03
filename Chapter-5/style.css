@@ -1,0 +1,35 @@
+  
+body{
+    background-color: #eccc68;
+}
+h1{
+    font-family: "Madimi One", sans-serif;
+    padding: 10px;
+    text-align: center;
+    color: #3742fa;
+    position: sticky;
+    top: 0;
+}
+h3{
+    padding: 20px;
+    background-color: #7bed9f;
+    line-height: 30px;
+}
+span{
+    font-style: italic;
+    font-size: 2em;
+    color: #ff6b81;
+}
+button{
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #5352ed;
+    border: none;
+    color: #ffa502;
+    font-weight: 600;
+}
+button:hover{
+    background-color: #2ed573;
+    color: #fff;
+}
